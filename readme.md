@@ -1,5 +1,5 @@
 ## 🔗Project Link
-https://digital-marketing-site.vercel.app/
+https://vishal-kumaar.github.io/Project-4-Digital-Marketing-Page/
 
 ## ✨ Project-4: Digital Marketing Page ✨
 
